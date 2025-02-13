@@ -21,8 +21,8 @@ I'm a final-year **Bachelor of Information Technology** student with a strong pa
 
 ## 📫 How to Reach Me
 - **GitHub:** [garvitmalik2121](https://github.com/garvitmalik2121)
-- **LinkedIn:** [Your LinkedIn Profile Here]
-- **Email:** [Your Email Here]
+- **LinkedIn:**(https://www.linkedin.com/in/garvit-malik-03128a284/)
+- **Email:** garvitmalik3221@gmail.com
 
 ## ⚡ Fun Fact
 I am a strong believer in **continuous learning** and **innovation**, and I love solving complex problems with simple, efficient solutions!
